@@ -1,2 +1,2 @@
 # Primeiro exercício 
-#Repositório que imprime a mensagem "Hello, World"
+Repositório que imprime a mensagem "Hello, World"
